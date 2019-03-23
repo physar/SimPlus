@@ -15,6 +15,10 @@ Controllers for robots can be developed in a variety of different lanugages incl
 
 ### Rules
 
+This competitions focuses on an abstraction of a rescue scenario.  A world will be provided which includes 'victims' which are represented by balls.  These balls victims must be located, it must be determined if these balls are 'dead' or 'alive' and then the must bereturned to the starting point of each teams robot.  
+* Dead victims will be represented by balls which are grey and have a sad face
+* Alive victims will be represented by balls which are pink and have a happy face.
+
 ### Installation
 
 The Webots software (which is free!) can be downloaded from [here](https://cyberbotics.com/download).  Installations are provided for Windows, Mac and Linux.  Further information on the installation process can be found [here](https://cyberbotics.com/doc/guide/installing-webots).  
@@ -27,7 +31,12 @@ Additionally if you would like to use Matlab/C/C++ more information can be found
 * [UsingC/C++.](https://cyberbotics.com/doc/guide/using-c) Webots includes C/C++ compiler
 
 
-### Introductions
+### Getting Started
+
+
+### Initial Activities
+* Navigate around (avoid walls using the ultasound sensor*
+* 
 
 ### Markdown
 
