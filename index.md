@@ -23,8 +23,8 @@ Python should also be installed as Python is used to create the worlds.  Webots 
 https://cyberbotics.com/doc/guide/using-python).  For Windows PCs it is key that the PATH should include the location of the python installation.
 
 Additionally if you would like to use Matlab/C/C++ more information can be found here:
-*[Using Matlab.](https://cyberbotics.com/doc/guide/using-matlab) Version 2015b only
-*[UsingC/C++.](https://cyberbotics.com/doc/guide/using-c) Webots includes C/C++ compiler
+* [Using Matlab.](https://cyberbotics.com/doc/guide/using-matlab) Version 2015b only
+* [UsingC/C++.](https://cyberbotics.com/doc/guide/using-c) Webots includes C/C++ compiler
 
 
 ### Introductions
