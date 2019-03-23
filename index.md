@@ -17,6 +17,15 @@ Controllers for robots can be developed in a variety of different lanugages incl
 
 ### Installation
 
+The Webots software (which is free!) can be downloaded from [here](https://cyberbotics.com/download).  Installations are provided for Windows, Mac and Linux.  Further information on the installation process can be found [here](https://cyberbotics.com/doc/guide/installing-webots).  
+
+Python should also be installed as Python is used to create the worlds.  Webots requires Pytohn 2.6 or 3.6, we will assume version 3.6 is used.  Instructions on installing Python can be found [here](M
+https://cyberbotics.com/doc/guide/using-python).  For Windows PCs it is key that the PATH should include the location of the python installation.
+
+Additionally if you would like to use Matlab/C/C++ more information can be found here:
+*[Using Matlab.](https://cyberbotics.com/doc/guide/using-matlab) Version 2015b only
+*[UsingC/C++.](https://cyberbotics.com/doc/guide/using-c) Webots includes C/C++ compiler
+
 
 ### Introductions
 
