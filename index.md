@@ -4,6 +4,9 @@ This page gives some install, set up and introduction to use Webots for a Rescue
 
 ### About
 
+This rescue scenario based simulation competition will use [webots](https://cyberbotics.com/), a 
+
+
 ### Rules
 
 ### Installation
