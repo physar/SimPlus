@@ -6,6 +6,9 @@ This page gives some install, set up and introduction to use Webots for a Rescue
 
 This rescue scenario based simulation competition will use [webots](https://cyberbotics.com/), a 
 
+Inline-style: 
+![alt text](logojpg "Logo Title Text 1")
+
 
 ### Rules
 
