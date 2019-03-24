@@ -15,9 +15,11 @@ Controllers for robots can be developed in a variety of different lanugages incl
 
 ### Rules
 
-This competitions focuses on an abstraction of a rescue scenario.  A world will be provided which includes 'victims' which are represented by balls.  These balls victims must be located, it must be determined if these balls are 'dead' or 'alive' and then the must bereturned to the starting point of each teams robot.  
-* Dead victims will be represented by balls which are grey and have a sad face
-* Alive victims will be represented by balls which are pink and have a happy face.
+This competitions focuses on an abstraction of a rescue scenario.  A world will be provided which includes 'victims' which are represented by balls.  These balls victims must be located, it must be determined if these balls are 'dead' or 'alive' and if possible the alive balls should be delivered to the home area.  
+* Alive victims will be represented by balls which are red and have a happy face
+* Dead victims will be represented by balls which are blue and have a sad face.
+
+To 'locate' the ball, the robot must travel within 0.1m of the ball and stay stationary for at least 2 seconds.  
 
 ### Installation
 
