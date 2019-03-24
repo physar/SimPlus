@@ -1,6 +1,6 @@
 ## RoboCup Simulation (Secondary/Open)
 
-This page gives some install, set up and introduction to use Webots for a Rescue based simulation setup. 
+This page gives some install, set up and introduction to use Webots for a Rescue based simulation setup. This is a demo, or trial, for creating a Resuce Simulation based platform to bridge the gap between RoboCupJunior Rescue Simulation & RoboCup Major Rescue Simulation. This platform uses open-source software, and the installation has been kept as simple as possible to provide a low barried to entry.  A number of introductory exercises are provided, in addition to which many more are available online.  Specific 'competition worlds' are also provided which are similar to thoose which will be used in the competition.  
 
 ### About
 
@@ -27,8 +27,12 @@ Python should also be installed as Python is used to create the worlds.  Webots 
 https://cyberbotics.com/doc/guide/using-python).  For Windows PCs it is key that the PATH should include the location of the python installation.
 
 Additionally if you would like to use Matlab/C/C++ more information can be found here:
-* [Using Matlab.](https://cyberbotics.com/doc/guide/using-matlab) Version 2015b only
+* [Using Matlab.](https://cyberbotics.com/doc/guide/using-matlab) Version 2015b only, and a licence will be needed.
 * [UsingC/C++.](https://cyberbotics.com/doc/guide/using-c) Webots includes C/C++ compiler
+
+
+### Resources
+
 
 
 ### Getting Started
