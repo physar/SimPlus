@@ -43,7 +43,11 @@ There are a number of online resources online, including many activities.  The m
 ### Getting Started
 
 ## The Robot
-The robot used is a e-puc.  
+The robot used in this simulation is based on a real-world robot which has been created for education and research, the Epuc.  Specific details about the robot can be found [here](https://cyberbotics.com/doc/guide/epuck).    
+
+The robot is equipped with a differential drive wheel system actuated by two stepper motors, a number of distance sensors, light sensors and a camera.  This is summarised in the Figure below.  
+
+![alt text](epuc.jpg "The Epuc Robot: sensors and actuators")
 
 
 ### Initial Activities
