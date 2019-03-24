@@ -37,7 +37,7 @@ There are a number of online resources online, including many activities.  The m
 * [Webots Reference Guide](https://cyberbotics.com/doc/reference/index)
 * [Webots Getting Started](https://cyberbotics.com/#support)
 * [Webots E-Book](https://en.wikibooks.org/wiki/Cyberbotics%27_Robot_Curriculum) - provides an curriculum for Webots using the Epuc robot.  Starts quite simply, but gets rapidly more challenging!
-* []()
+* [Introduction Presentation](http://homepages.herts.ac.uk/~comqcln//ALIFE/notes/tutorial1.pdf) - good introduction created by the University of Hertfordshire
 
 
 ### Getting Started
