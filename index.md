@@ -8,7 +8,7 @@ This rescue scenario based simulation competition will use [Webots](https://cybe
 
 <iframe width="300" align="centre" src="https://www.youtube.com/embed/O7U3sX_ubGc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Controllers for robots can be developed in a variety of different lanugages including C, Python and MatLab.  Although Python will be used in these tuotorials, teams are welcome to use any of the alternative languages which are provided.  
+Controllers for robots can be developed in a variety of different lanugages including C, Python and MatLab.  Although Python will be used in these tutorials, teams are welcome to use any of the alternative languages which are provided.  
 
 ![alt text](logo.jpg "Combination of Environments")
 
