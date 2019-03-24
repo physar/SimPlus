@@ -33,9 +33,17 @@ Additionally if you would like to use Matlab/C/C++ more information can be found
 
 ### Resources
 
+There are a number of online resources online, including many activities.  The most useful, are summarised here:
+* [Webots Reference Guide](https://cyberbotics.com/doc/reference/index)
+* [Webots Getting Started](https://cyberbotics.com/#support)
+* [Webots E-Book](https://en.wikibooks.org/wiki/Cyberbotics%27_Robot_Curriculum) - provides an curriculum for Webots using the Epuc robot.  Starts quite simply, but gets rapidly more challenging!
+* []()
 
 
 ### Getting Started
+
+## The Robot
+The robot used is a e-puc.  
 
 
 ### Initial Activities
