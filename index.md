@@ -12,10 +12,7 @@ This rescue scenario based simulation competition will use [Webots](https://cybe
 Controllers for robots can be developed in a variety of different lanugages including C, Python and MatLab.  Although Python will be used in these tuotorials, teams are welcome to use any of the alternative languages which are provided.  
 
 <figure>
-  <div align=center>
-<img src="logo.jpg" alt="The Epuck2 robot: sensors and actuators" width="100%"/><br>
-<figurecaption><i>Combination of programming environments</i></figurecaption>
-    </div>
+<img src="logo.jpg" alt="Combination of programming environments" width="100%"/>
 </figure>
 <!--![alt text](logo.jpg "Combination of Environments" =600x)-->
 
@@ -52,22 +49,20 @@ There are a number of online resources online, including many activities.  The m
 ### Getting Started
 
 ## The Robot
-The robot used in this simulation is based on a real-world robot which has been created for education and research, the Epuc.  Specific details about the robot can be found [here](https://cyberbotics.com/doc/guide/epuck).    
+The robot used in this simulation is based on a real-world robot which has been created for education and research, the Epuck2.  Specific details about the robot can be found [here](https://cyberbotics.com/doc/guide/epuck2).    
 
 The robot is equipped with a differential drive wheel system actuated by two stepper motors, a number of distance sensors, light sensors and a camera.  This is summarised in the figure below.  
 
 <figure>
-  <div align=center>
-<img src="e-puck2-features.png" alt="The Epuck2 robot: sensors and actuators" width="600"/><br>
-    <figurecaption><i>The Epuck2 robot: sensors and actuators</i></figurecaption>
-  </div>
+  <img src="e-puck2-features.png" alt="The Epuck2 robot: sensors and actuators" width="600"/>
 </figure>
 <!--![alt text](e-puck2-features.png "The Epuc Robot: sensors and actuators")-->
 
 
 ### Initial Activities
-* Navigate around (avoid walls using the ultasound sensor*
-* 
+* Navigate around (avoid walls using the ultasound sensor)
+* Find victims
+* Bring them back to base.
 
 <!--
 ### Markdown
