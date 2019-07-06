@@ -11,7 +11,11 @@ This rescue scenario based simulation competition will use [Webots](https://cybe
 
 Controllers for robots can be developed in a variety of different lanugages including C, Python and MatLab.  Although Python will be used in these tuotorials, teams are welcome to use any of the alternative languages which are provided.  
 
-![alt text](logo.jpg "Combination of Environments" =600x)
+<figure>
+<img src="logo.jpg" alt="The Epuck2 robot: sensors and actuators" width="100%""/><br>
+<figurecaption><i>Combination of programming environments</i></figurecaption>
+</figure>
+```![alt text](logo.jpg "Combination of Environments" =600x)
 
 
 ### Rules
@@ -51,10 +55,10 @@ The robot used in this simulation is based on a real-world robot which has been 
 The robot is equipped with a differential drive wheel system actuated by two stepper motors, a number of distance sensors, light sensors and a camera.  This is summarised in the figure below.  
 
 <figure>
-<img src="e-puck2-features.png" alt="The Epuck2 robot: sensors and actuators" width="600"/>
-<figurecaption>The Epuck2 robot: sensors and actuators</figurecaption>
+<img src="e-puck2-features.png" alt="The Epuck2 robot: sensors and actuators" width="600"/><br>
+<figurecaption><i>The Epuck2 robot: sensors and actuators</i></figurecaption>
 </figure>
-'''![alt text](e-puck2-features.png "The Epuc Robot: sensors and actuators")
+```![alt text](e-puck2-features.png "The Epuc Robot: sensors and actuators")
 
 
 ### Initial Activities
