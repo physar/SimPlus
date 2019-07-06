@@ -50,7 +50,11 @@ The robot used in this simulation is based on a real-world robot which has been 
 
 The robot is equipped with a differential drive wheel system actuated by two stepper motors, a number of distance sensors, light sensors and a camera.  This is summarised in the figure below.  
 
-![alt text](e-puck2-features.png "The Epuc Robot: sensors and actuators")
+<figure>
+<img src="e-puck2-features.png" alt="The Epuck2 robot: sensors and actuators" width="600"/>
+<figurecaption>The Epuck2 robot: sensors and actuators</figurecaption>
+</figure>
+'''![alt text](e-puck2-features.png "The Epuc Robot: sensors and actuators")
 
 
 ### Initial Activities
