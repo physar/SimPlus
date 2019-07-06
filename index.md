@@ -1,4 +1,4 @@
-```Based on an earlier version of https://github.com/jaehughes/SimPlus
+<!--Based on an earlier version of https://github.com/jaehughes/SimPlus-->
 ## RoboCup Simulation (Secondary/Open)
 
 This page gives some install, set up and introduction to use Webots for a Rescue based simulation setup. This is a demo, or trial, for creating a Rescue Simulation based platform to bridge the gap between RoboCupJunior Rescue Simulation & RoboCup Major Rescue Simulation. This platform uses open-source software, and the installation has been kept as simple as possible to provide a low barried to entry.  A number of introductory exercises are provided, in addition to which many more are available online.  Specific 'competition worlds' are also provided which are similar to thoose which will be used in the competition.  
@@ -12,10 +12,10 @@ This rescue scenario based simulation competition will use [Webots](https://cybe
 Controllers for robots can be developed in a variety of different lanugages including C, Python and MatLab.  Although Python will be used in these tuotorials, teams are welcome to use any of the alternative languages which are provided.  
 
 <figure>
-<img src="logo.jpg" alt="The Epuck2 robot: sensors and actuators" width="100%""/><br>
+<img src="logo.jpg" alt="The Epuck2 robot: sensors and actuators" width="100%"/><br>
 <figurecaption><i>Combination of programming environments</i></figurecaption>
 </figure>
-```![alt text](logo.jpg "Combination of Environments" =600x)
+<!--![alt text](logo.jpg "Combination of Environments" =600x)-->
 
 
 ### Rules
@@ -58,7 +58,7 @@ The robot is equipped with a differential drive wheel system actuated by two ste
 <img src="e-puck2-features.png" alt="The Epuck2 robot: sensors and actuators" width="600"/><br>
 <figurecaption><i>The Epuck2 robot: sensors and actuators</i></figurecaption>
 </figure>
-```![alt text](e-puck2-features.png "The Epuc Robot: sensors and actuators")
+<!--![alt text](e-puck2-features.png "The Epuc Robot: sensors and actuators")-->
 
 
 ### Initial Activities
