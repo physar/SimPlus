@@ -13,7 +13,7 @@ Controllers for robots can be developed in a variety of different lanugages incl
 
 <figure>
 <img src="logo.jpg" alt="The Epuck2 robot: sensors and actuators" width="100%"/><br>
-<figurecaption><i>Combination of programming environments</i></figurecaption>
+<figurecaption><div align=center>Combination of programming environments</div></figurecaption>
 </figure>
 <!--![alt text](logo.jpg "Combination of Environments" =600x)-->
 
@@ -56,7 +56,7 @@ The robot is equipped with a differential drive wheel system actuated by two ste
 
 <figure>
 <img src="e-puck2-features.png" alt="The Epuck2 robot: sensors and actuators" width="600"/><br>
-<figurecaption><i>The Epuck2 robot: sensors and actuators</i></figurecaption>
+<figurecaption><div align=center>The Epuck2 robot: sensors and actuators</div></figurecaption>
 </figure>
 <!--![alt text](e-puck2-features.png "The Epuc Robot: sensors and actuators")-->
 
@@ -65,6 +65,7 @@ The robot is equipped with a differential drive wheel system actuated by two ste
 * Navigate around (avoid walls using the ultasound sensor*
 * 
 
+<!--
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
@@ -86,3 +87,4 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
+-->
